@@ -1,2 +1,7 @@
 llm
+<<<<<<< HEAD
 access token huggingface.txt
+=======
+.venv/
+colablogs.txt
+>>>>>>> c40ebb929ae1775aab324e00573aa104661e24a5
